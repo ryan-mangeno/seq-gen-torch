@@ -1,6 +1,6 @@
 # makemore
 
-This is a simple character-level language model built in Python and PyTorch, heavily inspired by [Andrej Karpathy's makemore](https://github.com/karpathy/makemore). It's a reimplementation meant for learning purposes — the goal is to better understand how neural language models work under the hood, from bigrams to multi-layer MLPs.
+This is a simple character-level language model built in Python and PyTorch, heavily inspired by [Andrej Karpathy's makemore](https://github.com/karpathy/makemore). It's a reimplementation meant for learning purposes - the goal is to better understand how neural language models work under the hood, from bigrams to multi-layer MLPs.
 
 This repo follows Karpathy’s project flow closely but is built and documented independently as part of a personal learning journey.
 
