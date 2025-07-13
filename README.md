@@ -1,8 +1,8 @@
 # makemore
 
-This showcases multiple language models built in Python and PyTorch, based on [Andrej Karpathy's makemore](https://github.com/karpathy/makemore). It's a reimplementation meant for learning purposes - the goal is to better understand how neural language models work under the hood, from bigrams to multi-layer MLPs.
+This showcases multiple language models built in Python and PyTorch.
 
-This repo follows Karpathy’s project flow closely but is built and documented independently as part of a personal learning journey.
+This repo reimplimets Andrej Karpathys first few nn's, then diverges with rnn and transformers archs.
 
 Makemore is intended to take in a textfile as input, used in training, then generates more of that thing.
 
