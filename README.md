@@ -1,4 +1,4 @@
-# makemore
+# Sequence Generation 
 
 This showcases multiple language models built in Python and PyTorch.
 
