@@ -13,6 +13,7 @@ Makemore is intended to take in a textfile as input, used in training, then gene
 - `makemore_mlp.ipynb` - neural network approach based on [Bengio et al. 2003](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - `makemore_wavenet.ipynb` - wavenet approach [A¨aron van den Oor et al. 2016](https://arxiv.org/pdf/1609.03499)
 - `makemore_rnn.ipynb` - rnn with lstm approach.
+- `makemore_transform.ipynb` - transformer arch.
 
 ## Sample Output
 
