@@ -1,10 +1,10 @@
 # Sequence Generation 
 
-This showcases multiple language models built in Python and PyTorch.
+This showcases multiple generative models built in Python and PyTorch.
 
 This repo reimplimets Andrej Karpathys first few nn's, then diverges with rnn and transformers archs.
 
-Makemore is intended to take in a textfile as input, used in training, then generates more of that thing.
+When running the files, they will take in a textfile as input, used in training, then generates more of that thing.
 
 ## Files
 
