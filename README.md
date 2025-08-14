@@ -14,7 +14,7 @@ When running the files, they will take in a textfile as input, used in training,
 - `wavenet.ipynb` - wavenet approach [A¨aron van den Oor et al. 2016](https://arxiv.org/pdf/1609.03499)
 - `backprop.ipynb` - backprop from scratch.
 - `rnn.ipynb` - rnn with lstm approach.
-- `transform.ipynb` - transformer arch.
+- `transform.py` - transformer arch.
 
 ## Sample Output
 
@@ -39,3 +39,4 @@ popper.
 oui.
 dmir.
 dedero.
+
